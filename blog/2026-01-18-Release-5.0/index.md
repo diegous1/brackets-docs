@@ -10,26 +10,34 @@ import VideoPlayer from '@site/src/components/Video/player';
 
 2026 January release (5.0) of Phoenix Code is now available for download at [phcode.io](https://phcode.io).
 
-This is the biggest release of Phoenix Code ever! This brings lots of much-awaited features into Phoenix Code and we bump to the latest 5.0 version with this.
+Our biggest update yet - introducing `Phoenix Pro` and major upgrades like `Live Preview Edit`, `Emmet`,
+`Tab Bar`, and `Custom Snippets`.
 
-This release's core theme is `Phoenix Pro`, `Live Preview Edit`, `Emmet`, `Tab Bar` and `Custom Snippets`.
+## Phoenix Pro - A Sustainable Future
 
-## Phoenix Pro
+Phoenix Code has been free and open from day one - and **everything you’ve used so far will remain free forever**, including **Live Preview**.
 
-We're excited to announce Phoenix Pro -packed with powerful features to boost your productivity.
+We’re a small, full-time indie team with **no VC backing**, building Phoenix Code because we believe the web deserves a
+code editor that’s genuinely **simple and joyful to use**. We tried to sustain development through community donations
+([Open Collective](https://opencollective.com/phoenix-ide)), but over the last few years it hasn’t been enough to
+support full-time work - and we reached a hard choice: slow down drastically, or find a sustainable path that keeps Phoenix Code healthy.
 
-Phoenix Community remains free and always will be, as a sign of gratitude to the developer community and the open-source world.
+So we’re introducing **Phoenix Pro** as an *optional* way to support Phoenix Code’s future - with **one Pro feature: Live Preview Edit**.
+If Phoenix Code has helped you, Phoenix Pro is a way to help keep the project moving forward.
 
-For educators and students, we offer Phoenix Pro for Education at no cost. [Read More](../docs/phoenix-pro-school)
-
+Students & educators get **Phoenix Pro for Education** at no cost, because we want classrooms to have easy 
+access to modern, easy-to-use development tooling. [Read More](../docs/phoenix-pro-school)
 
 ## Live Preview Edit
 
-Now you can edit the live preview directly without touching your source code.
+*Included with Phoenix Pro.*
 
-Edit text, hyperlinks, and images. Rearrange elements with drag & drop. Cut, copy, paste. View measurements to position elements accurately. Phoenix Code updates your source code instantly.
+**Live Preview Edit** lets you make changes directly on your page — and updates your source code instantly.
 
-Read more about [Live Preview Edit](../docs/Pro%20Features/live-preview-edit), [Image Gallery](../docs/Pro%20Features/image-gallery), [Measurements](../docs/Pro%20Features/measurements).
+Edit text, links, and images. Drag & drop to rearrange elements. Cut, copy, paste, and use measurement tools
+to place things precisely.
+
+Learn more: [Live Preview Edit](../docs/Pro%20Features/live-preview-edit), [Image Gallery](../docs/Pro%20Features/image-gallery), [Measurements](../docs/Pro%20Features/measurements).
 
 <VideoPlayer
   src="https://docs-images.phcode.dev/videos/live-preview-edit/live-preview-edit.mp4"
