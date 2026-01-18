@@ -15,7 +15,7 @@ Our biggest update yet - introducing `Phoenix Pro` and major upgrades like `Live
 
 ## Phoenix Pro - A Sustainable Future
 
-Phoenix Code has been free and open from day one - and **everything you’ve used so far will remain free forever**, including **Live Preview**.
+Phoenix Code has been free and open source from day one - and **everything you’ve used so far will remain free forever**, including **Live Preview**.
 
 We’re a small, full-time indie team with **no VC backing**, building Phoenix Code because we believe the web deserves a
 code editor that’s genuinely **simple and joyful to use**. We tried to sustain development through community donations
