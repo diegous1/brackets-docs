@@ -26,7 +26,7 @@ So we’re introducing **Phoenix Pro** as an *optional* way to support Phoenix C
 If Phoenix Code has helped you, Phoenix Pro is a way to help keep the project moving forward.
 
 Students & educators get **Phoenix Pro for Education** at no cost, because we want classrooms to have easy 
-access to modern, easy-to-use development tooling. [Read More](../docs/phoenix-pro-school)
+access to modern, easy-to-use development tooling. [Read More](https://docs.phcode.dev/docs/phoenix-pro-school)
 
 ## Live Preview Edit
 
@@ -37,7 +37,7 @@ access to modern, easy-to-use development tooling. [Read More](../docs/phoenix-p
 Edit text, links, and images. Drag & drop to rearrange elements. Cut, copy, paste, and use measurement tools
 to place things precisely.
 
-Learn more: [Live Preview Edit](../docs/Pro%20Features/live-preview-edit), [Image Gallery](../docs/Pro%20Features/image-gallery), [Measurements](../docs/Pro%20Features/measurements).
+Learn more: [Live Preview Edit](https://docs.phcode.dev/docs/Pro%20Features/live-preview-edit), [Image Gallery](https://docs.phcode.dev/docs/Pro%20Features/image-gallery), [Measurements](https://docs.phcode.dev/docs/Pro%20Features/measurements).
 
 <VideoPlayer
   src="https://docs-images.phcode.dev/videos/live-preview-edit/live-preview-edit.mp4"
@@ -47,7 +47,7 @@ Learn more: [Live Preview Edit](../docs/Pro%20Features/live-preview-edit), [Imag
 
 **Emmet** one of our most requested features is finally here.
 
-Write Emmet abbreviations and Phoenix Code shows you hints. Select a hint to expand it into a full code snippet. Code faster than ever. [Read More](../docs/Features/emmet)
+Write Emmet abbreviations and Phoenix Code shows you hints. Select a hint to expand it into a full code snippet. Code faster than ever. [Read More](https://docs.phcode.dev/docs/Features/emmet)
 
 <VideoPlayer
   src="https://docs-images.phcode.dev/videos/editing-text/emmet-html.mp4"
@@ -57,7 +57,7 @@ Write Emmet abbreviations and Phoenix Code shows you hints. Select a hint to exp
 
 Tab Bar is here. View all your open files at the top of the editor and switch between them instantly.
 
-Choose what works for you -Tab Bar, Working Files, or both at the same time. [Read More](../docs/file-management#tab-bar)
+Choose what works for you -Tab Bar, Working Files, or both at the same time. [Read More](https://docs.phcode.dev/docs/file-management#tab-bar)
 
 ![Tab Bar](../../docs/images/fileManagement/tab-bar.png "Tab Bar")
 
@@ -65,7 +65,7 @@ Choose what works for you -Tab Bar, Working Files, or both at the same time. [Re
 
 Define your own code hints with Custom Snippets.
 
-Create hints that expand into full code blocks. You can also add cursor positions so Phoenix Code places your cursor exactly where you need it after expansion. [Read More](../docs/Features/custom-snippets)
+Create hints that expand into full code blocks. You can also add cursor positions so Phoenix Code places your cursor exactly where you need it after expansion. [Read More](https://docs.phcode.dev/docs/Features/custom-snippets)
 
 <VideoPlayer
   src="https://docs-images.phcode.dev/videos/custom-snippets/custom-snippets-main.mp4"
@@ -75,7 +75,7 @@ Create hints that expand into full code blocks. You can also add cursor position
 
 After working for some time, your project structure gets messy with lots of open and nested directories.
 
-But no worries now. Phoenix Code supports Collapse All Folders, which lets you reset your view by collapsing all expanded folders to their root level in one click. [Read More](../docs/file-management#collapse-all-folders)
+But no worries now. Phoenix Code supports Collapse All Folders, which lets you reset your view by collapsing all expanded folders to their root level in one click. [Read More](https://docs.phcode.dev/docs/file-management#collapse-all-folders)
 
 <VideoPlayer
   src="https://docs-images.phcode.dev/videos/file-management/collapse-folders.mp4"
@@ -84,7 +84,7 @@ But no worries now. Phoenix Code supports Collapse All Folders, which lets you r
 ## Notable changes and fixes
 
 - Improved Live Preview to support internal stylesheets and SVGs better than before.
-- Smarter color hints. Phoenix Code prioritizes your previously used colors. [Read More](../docs/editing-colors#color-hints)
+- Smarter color hints. Phoenix Code prioritizes your previously used colors. [Read More](https://docs.phcode.dev/docs/editing-colors#color-hints)
 - Git markers now appear in the scrollbar, making it easier to locate changes in a file.
 - Improved Git so that it doesn't show stale project status.
 - Reduced the number of popups shown when first installing Phoenix.
