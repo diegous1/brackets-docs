@@ -1,0 +1,50 @@
+{
+  "footer.link.title.Docs": {
+    "message": "Docs",
+    "description": "Footer link title Docs"
+  },
+  "footer.link.item.Docs": {
+    "message": "Docs",
+    "description": "Footer link Docs"
+  },
+  "footer.link.item.API": {
+    "message": "API",
+    "description": "Footer link API"
+  },
+  "footer.link.title.Community": {
+    "message": "Comunidade",
+    "description": "Footer link title Community"
+  },
+  "footer.link.title.More": {
+    "message": "Mais",
+    "description": "Footer link title More"
+  },
+  "footer.link.item.Blog": {
+    "message": "Blog",
+    "description": "Footer link Blog"
+  },
+  "footer.link.item.GitHub": {
+    "message": "GitHub",
+    "description": "Footer link GitHub"
+  },
+  "footer.link.item.Credits": {
+    "message": "Cr\u00e9ditos",
+    "description": "Footer link Credits"
+  },
+  "footer.link.item.Discord": {
+    "message": "Discord",
+    "description": "Footer link Discord"
+  },
+  "footer.link.item.reddit": {
+    "message": "Reddit",
+    "description": "Footer link Reddit"
+  },
+  "footer.link.item.X": {
+    "message": "X (Twitter)",
+    "description": "Footer link X"
+  },
+  "footer.link.item.YouTube": {
+    "message": "YouTube",
+    "description": "Footer link YouTube"
+  }
+}
