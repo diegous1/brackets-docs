@@ -1,0 +1,22 @@
+{
+  "navbar.item.label.Docs": {
+    "message": "Docs",
+    "description": "Navbar item with label Docs"
+  },
+  "navbar.item.label.API": {
+    "message": "API",
+    "description": "Navbar item with label API"
+  },
+  "navbar.item.label.Blog": {
+    "message": "Blog",
+    "description": "Navbar item with label Blog"
+  },
+  "navbar.item.label.Download": {
+    "message": "Baixar",
+    "description": "Navbar item with label Download"
+  },
+  "navbar.item.label.GitHub": {
+    "message": "GitHub",
+    "description": "Navbar item with label GitHub"
+  }
+}
